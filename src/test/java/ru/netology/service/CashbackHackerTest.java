@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertEquals;
 
-class CashbackHackerTest {
+public class CashbackHackerTest {
 
     @Test
     public void shouldReturn100IfAmountIs900() {
